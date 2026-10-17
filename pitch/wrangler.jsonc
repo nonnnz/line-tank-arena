@@ -1,0 +1,6 @@
+{
+  "name": "tank-pitch",
+  "compatibility_date": "2025-09-01",
+  "assets": { "directory": "public" },
+  "routes": [{ "pattern": "tank-pitch.nonnnz.dev", "custom_domain": true }]
+}

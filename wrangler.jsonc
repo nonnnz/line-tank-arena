@@ -1,0 +1,11 @@
+{
+  "name": "line-tank-arena",
+  "main": "worker/index.ts",
+  "compatibility_date": "2025-09-01",
+  "assets": { "directory": "dist", "not_found_handling": "single-page-application", "run_worker_first": ["/api/*", "/ws/*", "/webhook"] },
+  "durable_objects": { "bindings": [{ "name": "ROOM", "class_name": "GameRoom" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["GameRoom"] }],
+  "d1_databases": [{ "binding": "DB", "database_name": "line-tank-arena", "database_id": "9a6546ca-f511-4a64-aeaf-25c901aa3f0b" }],
+  "routes": [{ "pattern": "tank.nonnnz.dev", "custom_domain": true }],
+  "vars": { "PUBLIC_URL": "https://tank.nonnnz.dev", "LIFF_ID": "2012061553-J4ACK3AT", "TURNSTILE_SITE_KEY": "0x4AAAAAAFZPv_znQ0eaorFl" }
+}

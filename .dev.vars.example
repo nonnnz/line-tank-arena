@@ -1,0 +1,9 @@
+# Local secrets for `wrangler dev` (copy to .dev.vars — never commit .dev.vars)
+MINI_APP_CHANNEL_ID=""
+MINI_APP_CHANNEL_SECRET=""
+LINE_OA_CHANNEL_ID=""
+LINE_OA_CHANNEL_SECRET=""
+SESSION_SECRET=""
+# Cloudflare Turnstile always-pass test keys for local development
+TURNSTILE_SITE_KEY="1x00000000000000000000AA"
+TURNSTILE_SECRET="1x0000000000000000000000000000000AA"
