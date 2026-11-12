@@ -32,6 +32,12 @@ Built for **LINE HACK 2026** — *Create a Multiplayer Game on LINE MINI App*.
 | 💬 **LINE everywhere** | LIFF login, Share Target Picker invites, OA bot commands, and Service Message match results. |
 | 💸 **Runs free** | Workers, Durable Objects (SQLite), D1 and static assets on Cloudflare's free plan, with built-in budget and abuse guards. |
 
+## Demo
+
+<video src="ads/tank-arena-ad.webm" controls width="100%"></video>
+
+[▶ Watch the 11-second ad (WebM)](ads/tank-arena-ad.webm)
+
 ## How to play
 
 1. Open the MINI App in LINE (or the browser link) and choose **Login with LINE** (ranked) or **Play as guest** (random name, Cloudflare Turnstile check).
