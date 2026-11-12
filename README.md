@@ -34,9 +34,9 @@ Built for **LINE HACK 2026** — *Create a Multiplayer Game on LINE MINI App*.
 
 ## Demo
 
-<video src="ads/tank-arena-ad.webm" controls width="100%"></video>
+<img src="ads/tank-arena-ad.gif" alt="Tank Arena 3D gameplay ad" width="100%" />
 
-[▶ Watch the 11-second ad (WebM)](ads/tank-arena-ad.webm)
+[▶ Watch the full 16:9 video (WebM)](ads/tank-arena-ad.webm)
 
 ## How to play
 
